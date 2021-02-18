@@ -9,7 +9,7 @@ in which each entry (i,j) represents the rating of movie j by user i. We know my
 missing values by the column's mean, mode or median. Such approaches fail to consider any interaction between the features.
 To address that caveat, Matrix Factorization is leveraged for Matrix Completion.<br>
 
-![](https://user-images.githubusercontent.com/30777433/108379003-81192100-722b-11eb-8c78-7c2a79e573df.png)
+  ![](https://user-images.githubusercontent.com/30777433/108379003-81192100-722b-11eb-8c78-7c2a79e573df.png)
 Linear Matrix Factorization
 
 <br>
@@ -19,7 +19,7 @@ Matrix factorization is a linear method, meaning that if there are complicated n
 in the dataset, a simple dot product may not be able to handle it well. Hence, we leverage NNs to learn
 a non-linear function, say f, of U and V that best approximates X. <br>
 
-![](https://user-images.githubusercontent.com/30777433/108375915-6d1ff000-7228-11eb-9d0d-92277c562f9e.png)
+  ![](https://user-images.githubusercontent.com/30777433/108375915-6d1ff000-7228-11eb-9d0d-92277c562f9e.png)
 Deep Matrix Factorization
 
 <br>
