@@ -10,6 +10,7 @@ missing values by the column's mean, mode or median. Such approaches fail to con
 To address that caveat, Matrix Factorization is leveraged for Matrix Completion.<br>
 
 ![](https://user-images.githubusercontent.com/30777433/108379003-81192100-722b-11eb-8c78-7c2a79e573df.png)
+Linear Matrix Factorization
 
 <br>
 <h2> Deep Matrix Factorization</h2><br>
@@ -19,9 +20,9 @@ in the dataset, a simple dot product may not be able to handle it well. Hence, w
 a non-linear function, say f, of U and V that best approximates X. <br>
 
 ![](https://user-images.githubusercontent.com/30777433/108375915-6d1ff000-7228-11eb-9d0d-92277c562f9e.png)
+Deep Matrix Factorization
 
-
-
+<br>
 References
 
 [1] J. Fan and J. Cheng, “Matrix completion by deep matrix factorization,” Neural Networks, vol. 98, pp. 34 – 41, 2018. 
