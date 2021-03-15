@@ -1,6 +1,6 @@
 # Matrix Completion by Deep Matrix Factorization
 
-A PyTorch implementation of Deep Matrix Factorization (<a href=https://github.com/jicongfan/Matrix-completion-by-deep-matrix-factorization>Link</a> to original code which is implemeted by using MATLAB.)<br>
+A PyTorch implementation of Deep Matrix Factorization (<a href=https://github.com/jicongfan/Matrix-completion-by-deep-matrix-factorization>Link</a> to original code which is implemeted using MATLAB.)<br>
 
 <h2> Matrix Completion </h2><br>
 Matrix completion is the task of filling in the missing entries of a partially observed matrix. We consider the example 
